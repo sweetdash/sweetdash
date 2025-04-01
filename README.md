@@ -1,6 +1,6 @@
 # Hi there, I'm Sweekrit Dash 👋  
 
-I'm an **Aspiring Python Developer** passionate about building scalable web applications and exploring cloud technologies. I enjoy working with **Python, Django, HTML, CSS, and AWS** to create efficient and user-friendly solutions.  
+I'm a **Python Developer** passionate about building scalable web applications and exploring cloud technologies. I enjoy working with **Python, Django, HTML, CSS, and AWS** to create efficient and user-friendly solutions.  
 
 ---
 
